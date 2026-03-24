@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/football-live-score-and-news-platform-38-48/backend_nodejs_server"
+}
